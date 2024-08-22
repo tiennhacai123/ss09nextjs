@@ -1,6 +1,6 @@
 "use client";
 import React, { useState } from "react";
-import { cn } from "@/lib/utils";
+import { cn } from "@/components/utils";
 import { Slider } from "@/components/ui/slider";
 
 type SliderProps = React.ComponentProps<typeof Slider>;
